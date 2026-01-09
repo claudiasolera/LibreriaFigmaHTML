@@ -34,8 +34,7 @@ Para el desarrollo del proyecto he utilizado **Inteligencia Artificial**, combin
 ---
 
 ### 1️⃣ Primera versión con Claude a partir de Figma
-Principalmente **Claude**, al que le  **capturas del diseño realizado en Figma**. A partir de estas imágenes, la IA generó una primera versión del **HTML y CSS**.
-Principalmente he usado **Claude**, al que le he pasado **capturas del diseño realizado en Figma**. A partir de estas imágenes, la IA generó una primera versión del **HTML y CSS**.
+Principalmente he usado **Claude**, al que le he pasado **capturas del diseño realizado en Figma**. A partir de estas imágenes, la IA me generó una primera versión del **HTML y CSS**.
 
 > ⚠️ Esta primera generación no era totalmente fiel al diseño original, especialmente en aspectos como anchos de contenedores, espaciados y distribución.
 
@@ -54,6 +53,8 @@ Para mejorar la fidelidad, he copiado el **código proporcionado por el Dev Mode
 
 Aun así, la IA siguió cometiendo algunos errores.
 
+**Ejemplo del prompt usado:**
+![Captura del diseño Figma](public/img/readme2.png)
 
 ---
 
